@@ -1,1 +1,3 @@
 howdy text file for git exercise
+
+let's change some things and see if git notices
